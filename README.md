@@ -1,6 +1,6 @@
 ## Hello, I'm Victor! 👋
 
-I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge on new technologies.
+I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
 
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript
