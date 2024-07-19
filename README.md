@@ -4,9 +4,7 @@ I'm a dedicated developer and current student at Moringa School, deeply passiona
 
 ---
 
-### 🛠️ Skills
-
-## Skills and Tools
+### 🛠️ Skills and Tools
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
