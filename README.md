@@ -35,7 +35,7 @@ I'm currently immersing myself in data structures and databases. My journey of l
 ---
 ### 📫 Get in Touch
 - **Email:** [victor.dmaina@gmail.com](mailto:victor.dmaina@gmail.com), [prodbysmig@gmail.com](mailto:prodbysmig@gmail.com)
-- ⚡ Fun fact: Chelsea fan ![Chelsea Logo](https://img.shields.io/badge/Chelsea-0033A0?style=for-the-badge&logo=football&logoColor=white) LONDON IS BLUE!
+- ⚡ Fun fact: Chelsea fan ![Chelsea Logo](https://www.shutterstock.com/image-illustration/chelsea-fc-logo-white-background-surabaya-2403695365) LONDON IS BLUE!
 
 Feel free to explore my repositories and connect with me. I'm open to collaborations and eager to seize new opportunities!
 
