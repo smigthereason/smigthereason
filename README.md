@@ -4,14 +4,14 @@ I'm a dedicated developer and current student at Moringa School, deeply passiona
 
 ---
 
-### 🛠️ Skills and Tools
+## 🛠️ Skills and Tools
 
-## Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## Technologies
+### Technologies
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -21,7 +21,7 @@ I'm a dedicated developer and current student at Moringa School, deeply passiona
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1F1F1F?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Tools
+### Tools
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -45,7 +45,7 @@ I'm currently immersing myself in data structures and databases. My journey of l
 </div>
 
 
-## ⚡ Fun fact
+### ⚡ Fun fact
 <img src="https://i.pinimg.com/736x/ea/83/eb/ea83eb30328cdd78d85195ca3eda8b07.jpg" alt="Chelsea Logo" width="40" height="40"/> Chelsea fan:LONDON IS BLUE!
 
 
