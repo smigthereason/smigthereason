@@ -19,6 +19,9 @@ I'm a dedicated developer and current student at Moringa School, deeply passiona
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1F1F1F?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## Tools
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -34,7 +37,15 @@ I'm currently immersing myself in data structures and databases. My journey of l
 
 ---
 ### 📫 Get in Touch
-- **Email:** [victor.dmaina@gmail.com](mailto:victor.dmaina@gmail.com), [prodbysmig@gmail.com](mailto:prodbysmig@gmail.com)
+<div>
+  <a href="https://www.linkedin.com/in/victor-maina-smg/">
+    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Maina-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:victor.dmaina@gmail.com">
+    <img src="https://img.shields.io/badge/Email-victor.dmaina%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
 
 ## ⚡ Fun fact
 <img src="https://i.pinimg.com/736x/ea/83/eb/ea83eb30328cdd78d85195ca3eda8b07.jpg" alt="Chelsea Logo" width="40" height="40"/> Chelsea fan:LONDON IS BLUE!
