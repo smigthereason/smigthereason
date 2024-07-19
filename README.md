@@ -2,10 +2,14 @@
 
 I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
 
+---
+
 ### 🛠️ Skills
 - **Languages:** Python, JavaScript
 - **Technologies:** React, Node.js, Git
 - **Tools:** VSCode, Postman
+
+---
 
 ### 🌱 Current Focus
 I'm currently immersing myself in data structures and databases. My journey of learning is ongoing, and I'm always on the lookout for exciting new technologies to explore.
