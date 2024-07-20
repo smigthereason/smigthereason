@@ -47,8 +47,9 @@ I'm currently immersing myself in data structures and databases. My journey of l
 
 <h3 align="center">Stats</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smigthereason&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="WakaTime stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smigthereason&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&range=all_time" alt="WakaTime stats" />
 </p>
+
 
 
 
