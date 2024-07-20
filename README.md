@@ -2,12 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Victor+Maina!+%F0%9F%98%84"/>
 </h1>
 
-I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
+<p align="center">I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
+</p>
 
+<h2 align="center">
+  🛠️ Skills and Tools
+</h2> 
 
-
-## 🛠️ Skills and Tools
-
+<div align="center'>
+  
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -28,7 +31,7 @@ I'm a dedicated developer and current student at Moringa School, deeply passiona
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-
+</div>
 
 ---
 
