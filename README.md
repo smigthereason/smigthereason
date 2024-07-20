@@ -34,6 +34,14 @@ I'm a dedicated developer and current student at Moringa School, deeply passiona
 I'm currently immersing myself in data structures and databases. My journey of learning is ongoing, and I'm always on the lookout for exciting new technologies to explore.
 
 ---
+<h3 align="left">Stats</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smigthereason&show_icons=true&locale=en&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="smigthereason" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smigthereason&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="smigthereason" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smigthereason&count_private=true&theme=react&border_radius=10"" alt="smigthereason" /></p>
+
+---
 ### 📫 Get in Touch
 <div>
   <a href="https://www.linkedin.com/in/victor-maina-smg/">
