@@ -9,34 +9,14 @@
   🛠️ Skills and Tools
 </h2> 
   
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1F1F1F?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools
-![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Languages
+<h3 align="center"> Languages </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </p>
 
-### Technologies
+<h3 align="center"> Technologies </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js">
@@ -48,7 +28,7 @@
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
 </p>
 
-### Tools
+<h3 align="center"> Tools </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
@@ -56,21 +36,23 @@
 </p>
 
 
----
 
-### 🌱 Current Focus
+<h3 align="center"> 🌱 Current Focus </h3>
+<p align="center">
 I'm currently immersing myself in data structures and databases. My journey of learning is ongoing, and I'm always on the lookout for exciting new technologies to explore.
+</p>
 
 ---
+
 <h3 align="center">Stats</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smigthereason&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="smigthereason" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=smigthereason&show_icons=true&locale=en&count_private=true&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="smigthereason" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smigthereason&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="smigthereason" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smigthereason&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="smigthereason" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smigthereason&count_private=true&theme=react&border_radius=10"" alt="smigthereason" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smigthereason&count_private=true&theme=react&border_radius=10"" alt="smigthereason" /></p>
 
 <h3 align="center">Contributions</h3>
-<picture>
+<picture align="center">
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake-dark.svg"
@@ -86,7 +68,7 @@ I'm currently immersing myself in data structures and databases. My journey of l
 </picture>
 
 ---
-### 📫 Get in Touch
+<h3 align="center"> 📫 Get in Touch </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-maina-smg/">
     <img src="https://img.shields.io/badge/LinkedIn-Victor%20Maina-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -97,12 +79,13 @@ I'm currently immersing myself in data structures and databases. My journey of l
 </div>
 
 
-### ⚡ Fun fact
-<img src="https://i.pinimg.com/736x/ea/83/eb/ea83eb30328cdd78d85195ca3eda8b07.jpg" alt="Chelsea Logo" width="40" height="40"/> Chelsea fan:LONDON IS BLUE!
+<h3 align="center"> ⚡ Fun fact </h3>
+<h4 align="center"><img src="https://i.pinimg.com/736x/ea/83/eb/ea83eb30328cdd78d85195ca3eda8b07.jpg" alt="Chelsea Logo" width="100" height="100"/></h4> 
+<p align="center">Chelsea fan:LONDON IS BLUE!</p>
 
 
-Feel free to explore my repositories and connect with me. I'm open to collaborations and eager to seize new opportunities!
+<p align="center">Feel free to explore my repositories and connect with me. I'm open to collaborations and eager to seize new opportunities!</p>
 
-Thank you for visiting my GitHub profile!
+<p align="center">Thank you for visiting my GitHub profile!</p>
 
 
