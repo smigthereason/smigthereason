@@ -4,6 +4,7 @@
 
 <p align="center">I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=smigthereason&label=Profile%20views&color=0e75b6&style=flat" alt="smigthereason" /> </p>
 
 <h2 align="center">
   🛠️ Skills and Tools
@@ -62,6 +63,7 @@ I'm currently immersing myself in data structures and databases. My journey of l
     srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake.svg"
   />
   <img
+    align="center"
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
