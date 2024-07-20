@@ -49,7 +49,7 @@ I'm currently immersing myself in data structures and databases. My journey of l
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution grid snake animation"
