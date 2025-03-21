@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Victor+Maina!+%F0%9F%98%84"/>
 </h1>
 
-<p align="center">I'm a dedicated developer and current student at Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
+<p align="center">I'm a dedicated developer and an alumnus of Moringa School, deeply passionate about web development and machine learning. I thrive on creating cutting-edge solutions and constantly expanding my knowledge of new technologies.
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=smigthereason&label=Profile%20views&color=0e75b6&style=flat" alt="smigthereason" /> </p>
 
