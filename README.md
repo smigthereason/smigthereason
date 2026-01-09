@@ -36,8 +36,6 @@
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
-
-
 <h3 align="center"> 🌱 Current Focus </h3>
 <p align="center">
 I'm currently immersing myself in data structures and databases. My journey of learning is ongoing, and I'm always on the lookout for exciting new technologies to explore.
@@ -45,36 +43,35 @@ I'm currently immersing myself in data structures and databases. My journey of l
 
 ---
 
-<h3 align="center">Stats</h3>
+<h3 align="center">📊 Coding Stats</h3>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=smigthereason&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&range=all_time" alt="WakaTime stats" />
+  <a href="https://wakatime.com/@smigthereason">
+    <img src="https://wakatime.com/badge/user/smigthereason.svg" alt="Total time coded since WakaTime" />
+  </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@smigthereason&layout=compact&theme=react&border_radius=10&langs_count=6" alt="WakaTime stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=smigthereason&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" alt="GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smigthereason&theme=react&border_radius=10" alt="GitHub streak stats" />
+</p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smigthereason&locale=en&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="smigthereason" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smigthereason&count_private=true&theme=react&border_radius=10"" alt="smigthereason" /></p>
-
-<h3 align="center">Contributions</h3>
+<h3 align="center">🐍 Contributions</h3>
 <picture align="center">
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    align="center"
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/smigthereason/smigthereason/blob/output/github-contribution-grid-snake.svg" />
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/smigthereason/smigthereason/output/github-contribution-grid-snake.svg" />
 </picture>
 
 ---
+
 <h3 align="center"> 📫 Get in Touch </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/victor-maina-smg/">
@@ -85,14 +82,14 @@ I'm currently immersing myself in data structures and databases. My journey of l
   </a>
 </div>
 
+<h3 align="center"> ⚡ Fun Fact </h3>
+<h4 align="center">
+  <img src="https://i.pinimg.com/736x/ea/83/eb/ea83eb30328cdd78d85195ca3eda8b07.jpg" alt="Chelsea Logo" width="100" height="100"/>
+</h4> 
+<p align="center">Chelsea fan: LONDON IS BLUE! 💙</p>
 
-<h3 align="center"> ⚡ Fun fact </h3>
-<h4 align="center"><img src="https://i.pinimg.com/736x/ea/83/eb/ea83eb30328cdd78d85195ca3eda8b07.jpg" alt="Chelsea Logo" width="100" height="100"/></h4> 
-<p align="center">Chelsea fan:LONDON IS BLUE!</p>
-
+---
 
 <p align="center">Feel free to explore my repositories and connect with me. I'm open to collaborations and eager to seize new opportunities!</p>
 
 <p align="center">Thank you for visiting my GitHub profile!</p>
-
-
